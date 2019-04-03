@@ -1,0 +1,11 @@
+/Users/cooperstrahan/Documents/Coding_Dojo/hangman/bin/Debug/netcoreapp2.2/hangman.deps.json
+/Users/cooperstrahan/Documents/Coding_Dojo/hangman/bin/Debug/netcoreapp2.2/hangman.runtimeconfig.json
+/Users/cooperstrahan/Documents/Coding_Dojo/hangman/bin/Debug/netcoreapp2.2/hangman.runtimeconfig.dev.json
+/Users/cooperstrahan/Documents/Coding_Dojo/hangman/bin/Debug/netcoreapp2.2/hangman.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/hangman/bin/Debug/netcoreapp2.2/hangman.pdb
+/Users/cooperstrahan/Documents/Coding_Dojo/hangman/obj/Debug/netcoreapp2.2/hangman.csprojAssemblyReference.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/hangman/obj/Debug/netcoreapp2.2/hangman.csproj.CoreCompileInputs.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/hangman/obj/Debug/netcoreapp2.2/hangman.AssemblyInfoInputs.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/hangman/obj/Debug/netcoreapp2.2/hangman.AssemblyInfo.cs
+/Users/cooperstrahan/Documents/Coding_Dojo/hangman/obj/Debug/netcoreapp2.2/hangman.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/hangman/obj/Debug/netcoreapp2.2/hangman.pdb
