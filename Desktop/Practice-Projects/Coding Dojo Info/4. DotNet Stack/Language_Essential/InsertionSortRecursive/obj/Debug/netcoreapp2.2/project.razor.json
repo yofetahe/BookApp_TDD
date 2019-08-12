@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\yofet\\Desktop\\Practice-Projects\\Coding Dojo Info\\4. DotNet Stack\\Language_Essential\\InsertionSortRecursive\\InsertionSortRecursive.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+@charset "ISO-8859-1";
+
+*{
+	margin: 0 auto;
+	font-family: cursive;
+	line-height: 30px;
+}
+#header{
+	margin-bottom: 20px;
+	background-color: maroon;
+	width: 100%;
+	padding: 50px 0px 5px 0px;
+	text-align: center;
+	color: #fff;	
+	box-shadow: 0px 5px 5px gray;
+	border-bottom: #fff 2px solid;
+}
+#header>.page_title{
+	font-size: 50px;
+}
+#header>.links{
+	padding-top: 20px;
+}
+a#sign_up, a#login{	
+	padding: 5px 10px;
+}
+a#sign_up:hover, a#login:hover{
+	background-color: rgba(255,255,255,0.2);
+	border-radius: 5px;
+	padding: 5px 10px;
+}
+
+#container{
+	text-align: center;
+}
+#content{
+	margin: 0 auto;
+}
+#footer{
+	margin-top: 20px;
+	padding: 20px 0px 20px 5px;
+	border-top: 1px solid gray;
+	color: gray;
+}
+.movies {
+	padding: 10px;
+	border: 1px gray solid;
+	border-radius: 5px;
+	margin: 5px;
+	display: inline-block;
+	text-align: center;
+	box-shadow: 5px 5px 2px 1px rgba(0, 0, 255, .1);
+	min-height: 400px;
+	width: 250px;
+	font-size: 13px;
+}
+.link-btn{
+	background-color: maroon;
+	padding: 5px 10px;
+	text-align: center;
+	color: #fff;	
+	border-radius: 5px;
+	box-shadow: 5px 5px 2px 1px rgba(0, 0, 255, .1);
+}
+a.link-btn:hover{
+	background-color: #fff;
+	padding: 5px 10px;
+	text-align: center;
+	color: maroon;	
+	border-radius: 5px;
+	border: rgba(128,0,0,0.5) 1px solid;
+	box-shadow: 5px 5px 2px 1px rgba(0, 0, 255, .1);
+}
+img {
+	width: auto;
+	height: 200px;
+}
+a{
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #fff;
+}

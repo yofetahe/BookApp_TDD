@@ -1,0 +1,11 @@
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\InsertionSortRecursive\bin\Debug\netcoreapp2.2\InsertionSortRecursive.deps.json
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\InsertionSortRecursive\bin\Debug\netcoreapp2.2\InsertionSortRecursive.runtimeconfig.json
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\InsertionSortRecursive\bin\Debug\netcoreapp2.2\InsertionSortRecursive.runtimeconfig.dev.json
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\InsertionSortRecursive\bin\Debug\netcoreapp2.2\InsertionSortRecursive.dll
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\InsertionSortRecursive\bin\Debug\netcoreapp2.2\InsertionSortRecursive.pdb
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\InsertionSortRecursive\obj\Debug\netcoreapp2.2\InsertionSortRecursive.csprojAssemblyReference.cache
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\InsertionSortRecursive\obj\Debug\netcoreapp2.2\InsertionSortRecursive.csproj.CoreCompileInputs.cache
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\InsertionSortRecursive\obj\Debug\netcoreapp2.2\InsertionSortRecursive.AssemblyInfoInputs.cache
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\InsertionSortRecursive\obj\Debug\netcoreapp2.2\InsertionSortRecursive.AssemblyInfo.cs
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\InsertionSortRecursive\obj\Debug\netcoreapp2.2\InsertionSortRecursive.dll
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\InsertionSortRecursive\obj\Debug\netcoreapp2.2\InsertionSortRecursive.pdb
